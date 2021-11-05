@@ -26,4 +26,4 @@
 - Object
 - Conditions
 
-[Live Demo]((https://zacharytruong.github.io/portfolio/calculator/)) ❤️
+[Live Demo](https://zacharytruong.github.io/calculator/) ❤️
